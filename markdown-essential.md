@@ -1,9 +1,9 @@
 # Essential of Markdown file in Project documentation
 
 ## Table of Content
-[1. Introduction to markdown file](###Introduction-to-markdown-file)
-[2. How to represent element in markdown file](###How-to-represent-element-in-markdown-file)
-[3. How to write useful README.md in technical project](###How-to-write-useful-README.md-in-technical-project)
+- [1. Introduction to markdown file](###Introduction-to-markdown-file)
+- [2. How to represent element in markdown file](###How-to-represent-element-in-markdown-file)
+- [3. How to write useful README.md in technical project](###How-to-write-useful-README.md-in-technical-project)
 
 ***
 
