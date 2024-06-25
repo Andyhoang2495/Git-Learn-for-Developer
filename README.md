@@ -1,5 +1,6 @@
-# Git for Developer
-In this repo, I will learn git knowledge at first and figure out how to use that tool in my whole developer path in the future
+# Git and Markdown writing for Developer
+In this repo, I will learn git knowledge at first and figure out how to use that tool in my whole developer path in the future.
+Also, to be professional developer in the future, writing skills in markdown file is one of important factor that I will mention in README file.
 ## Resource
 Looking for some reference source to learn below:
 - https://learngitbranching.js.org
@@ -44,3 +45,8 @@ c. Merging in Git
 d. Rebase Introduction
 
 - Rebase command use to copy commit from branching into main and will merge with main after using rebase again
+
+
+
+
+
