@@ -2,8 +2,10 @@
 In this repo, I will learn git knowledge at first and figure out how to use that tool in my whole developer path in the future
 ## Resource
 Looking for some reference source to learn below:
-    - https://learngitbranching.js.org
-    - Version Control with Git - Udacity
+- https://learngitbranching.js.org
+- Version Control with Git - Udacity
+## Table of Content
+
      
 ### 1. Basic Git knowledge
 a. Introduction to Git Commit
@@ -35,8 +37,10 @@ Git commit
 Git checkout -b <name-branch>
 
 c. Merging in Git
+- It help us to combine all function we develop on branch with origin function in main
 
 
 
 d. Rebase Introduction
 
+- Rebase command use to copy commit from branching into main and will merge with main after using rebase again
